@@ -23,9 +23,11 @@ For using this project you need all 9 files as they are dependencies of `main.py
 ## Which technology is used?
 Python programming language that really and a general purpose language use in Machine Learnig, Web scraping, Backend of web, etc
 We use some Python libraries's function listed below with purpose:
-- random's randint --> used for generate 4-digit random code to confirm deletion.
+- random module's randint --> used for generate 4-digit random code to confirm deletion.
 - os module --> To check the size of our database file, if size is zero so write default value in it to prevent other potential error.
 - json module --> Used for reading and writing our database and general info file as they are JSON file.
-- time's strftime --> To get accurate date and time for writing in purchase slip
+- time module's strftime --> To get accurate date and time for writing in purchase slip
 
+## How it works?
+A explanation video will be embeled here
 
