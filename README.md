@@ -28,6 +28,4 @@ We use some Python libraries's function listed below with purpose:
 - json module --> Used for reading and writing our database and general info file as they are JSON file.
 - time module's strftime --> To get accurate date and time for writing in purchase slip
 
-## How it works?
-A explanation video will be embeled here
 
