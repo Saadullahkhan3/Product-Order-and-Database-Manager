@@ -1,0 +1,107 @@
+{
+    "1": {
+        "name": "Biryani Masala",
+        "brand": "Shan",
+        "weight": "75 g",
+        "price": 90,
+        "quantity": 10
+    },
+    "2": {
+        "name": "Milk pack",
+        "brand": "Olpers",
+        "weight": "1 L",
+        "price": 205,
+        "quantity": 10
+    },
+    "3": {
+        "name": "Tea pack",
+        "brand": "Tapal",
+        "weight": "500 g",
+        "price": 328,
+        "quantity": 9
+    },
+    "4": {
+        "name": "Rice pack",
+        "brand": "Falak",
+        "weight": "10 kg",
+        "price": 4000,
+        "quantity": 9
+    },
+    "5": {
+        "name": "Ghee",
+        "brand": "Dalda",
+        "weight": "2 kg",
+        "price": 673,
+        "quantity": 10
+    },
+    "6": {
+        "name": "Spaghetti",
+        "brand": "Bake Parlour",
+        "weight": "500 g",
+        "price": 258,
+        "quantity": 10
+    },
+    "7": {
+        "name": "Pink Salt",
+        "brand": "Shan",
+        "weight": "250 g",
+        "price": 220,
+        "quantity": 10
+    },
+    "8": {
+        "name": "Tomato Ketchup",
+        "brand": "Shangrila",
+        "weight": "800 g",
+        "price": 400,
+        "quantity": 10
+    },
+    "9": {
+        "name": "0000",
+        "brand": "",
+        "weight": "",
+        "price": 5,
+        "quantity": -1
+    },
+    "10": {
+        "name": "Coconut Oil",
+        "brand": "Pansari",
+        "weight": "500 mL",
+        "price": 690,
+        "quantity": 10
+    },
+    "11": {
+        "name": "Milk Powder",
+        "brand": "Nestle Nido",
+        "weight": "100 g",
+        "price": 189,
+        "quantity": 0
+    },
+    "12": {
+        "name": "Margarine Spread",
+        "brand": "Blue Band",
+        "weight": "235 g",
+        "price": 410,
+        "quantity": 10
+    },
+    "13": {
+        "name": "Safety Match",
+        "brand": "Super Hockey",
+        "weight": "-",
+        "price": 9,
+        "quantity": 10
+    },
+    "14": {
+        "name": "Sugar",
+        "brand": "-",
+        "weight": "5 kg",
+        "price": 800,
+        "quantity": 7
+    },
+    "15": {
+        "name": "Water Bottle",
+        "brand": "Aquafina",
+        "weight": "1 L",
+        "price": 40,
+        "quantity": 7
+    }
+}
