@@ -26,6 +26,15 @@ We use some Python libraries's function listed below with purpose:
 - time module's strftime --> To get accurate date and time for writing in purchase slip
 
 ## How to use it?
+You need this 7 files in same directory:
+### Python Files
+1. `Flag_and_Format_of_table.py`
+2. `General_Product_task.py`
+3. `Product_database_manipulation.py`
+4. `Product_Order_manager.py`
+5. `main.py` Run this file to run program as this file is responsible for running entire program
+### Database and 
+6. 
 For using this project you need all 9 files as they are dependencies of `main.py`, because this is hub of all connection and responsible to make program usable.
 
 ## Program Runnig Guide(subtitles)
