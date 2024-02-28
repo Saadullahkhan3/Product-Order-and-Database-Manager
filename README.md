@@ -17,9 +17,6 @@ This project is about managing JSON-based database where how we can see, add, up
 - Create report of out of stock product(if any).
 - Create purchase slip.
 
-## How to use it?
-For using this project you need all 9 files as they are dependencies of `main.py`, because this is hub of all connection and responsible to make program usable.
-
 ## Which technology is used?
 Python programming language that really and a general purpose language use in Machine Learnig, Web scraping, Backend of web, etc
 We use some Python libraries's function listed below with purpose:
@@ -28,4 +25,8 @@ We use some Python libraries's function listed below with purpose:
 - json module --> Used for reading and writing our database and general info file as they are JSON file.
 - time module's strftime --> To get accurate date and time for writing in purchase slip
 
+## How to use it?
+For using this project you need all 9 files as they are dependencies of `main.py`, because this is hub of all connection and responsible to make program usable.
+
+## Program Runnig Guide(subtitles)
 
