@@ -219,9 +219,8 @@ class ProductManipulation(GeneralProductTask):
         }
         # Showing getted values
         print(f"\nHere is getted info of ID no {new_product_id}, Please confrim it !.")
-        print(f" Name: {products_database[new_product_id]["name"]} \n Brand: {products_database[new_product_id]["brand"]} \n Weight: {products_database[new_product_id]["weight"]} \n Price: {products_database[new_product_id]["price"]} \n Quantity: {products_database[new_product_id]["quantity"]}")
+        print(f""" Name: {products_database[new_product_id]['name']} \n Brand: {products_database[new_product_id]['brand']} \n Weight: {products_database[new_product_id]['weight']} \n Price: {products_database[new_product_id]['price']} \n Quantity: {products_database[new_product_id]['quantity']}""")
         
-        # Todo: Add a option that if user want to update info
         # Confirm to user that data showed above is right or not
         while True:
             is_right_info = input("\nType 'yes' to finally add into database OR Type 'no' if you want to reject it. \nEnter here : ")
