@@ -13,7 +13,7 @@ In this project we create a JSON database and take and validiate order from user
 1. Product Database Manipulation where we can see, add, update and delete(remove product from slots) data 
 2. Order Manager where we take order from user and manage things to prevent error
 
-*Note: For deep understanding of this project visit GitHun Repository Link: 
+*Note: For further understanding of this project visit GitHub Repository Link: https://github.com/Saadullahkhan3/Product-Order-and-Database-Manager
 '''
 print(introduction)
 
