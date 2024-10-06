@@ -17,6 +17,8 @@ This project is about managing JSON-based database where how we can see, add, up
 - Create report of out of stock product(if any).
 - Create purchase slip.
 
+> Watch Demo video on Youtube: [Digital ilm - Demo](https://youtu.be/ALe6aF5nnGM?si=GEYBr4AFiNU26pZ2)
+
 ---
 
 ## Which technology is used?
