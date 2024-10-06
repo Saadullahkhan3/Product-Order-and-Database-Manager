@@ -20,8 +20,8 @@ This project is about managing JSON-based database where how we can see, add, up
 ---
 
 ## Which technology is used?
-Python programming language that really and a general purpose language use in Machine Learnig, Web scraping, Backend of web, etc
-We use some Python libraries's function listed below with purpose:
+Python programming language that is a general purpose programming language which uses in many tech fields such as Machine Learnig, Web scraping, Backend of web, etc.
+We also use some Python libraries's function listed below with purpose:
 - random module's randint --> used for generate 4-digit random code to confirm deletion.
 - os module --> To check the size of our database file, if size is zero so write default value in it to prevent other potential error.
 - json module --> Used for reading and writing our database and general info file as they are JSON file.
@@ -118,6 +118,7 @@ You need this 7 files in same directory:
 4. `Product_Order_manager.py`
 5. `main.py` 
 ### Database and General Info File
+
 6. `Products_database.json`
 7. `general_store_info.json`
 
