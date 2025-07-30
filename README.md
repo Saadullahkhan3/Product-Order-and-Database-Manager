@@ -17,7 +17,7 @@ This project is about managing JSON-based database where how we can see, add, up
 - Create report of out of stock product(if any).
 - Create purchase slip.
 
-> Watch Demo video on Youtube: [Digital ilm - Demo](https://youtu.be/ALe6aF5nnGM?si=GEYBr4AFiNU26pZ2)
+> Watch Demo video on Youtube: [Product Order and Database Manager | Python | JSON - Demo](https://youtu.be/s5OxqvMBw1E?si=QV3SQriLfpKbduWa)
 
 ---
 
